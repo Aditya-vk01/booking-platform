@@ -115,7 +115,7 @@ not just "what" was built, but "why" each technical choice was made.
 
 ![Database Schema](docs/schema.png)
 
-**Full interactive schema:** [View on dbdiagram.io](YOUR_DBDIAGRAM_LINK_HERE)
+**Full interactive schema:** [View on dbdiagram.io](https://dbdiagram.io/d/69f43a63ddb9320fdca7d697)
 
 ### Key Design Decisions
 
