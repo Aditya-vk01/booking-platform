@@ -113,8 +113,6 @@ not just "what" was built, but "why" each technical choice was made.
 
 > Designed with normalization, strategic denormalization, and query-optimized indexing.
 
-![Database Schema](docs/schema.png)
-
 **Full interactive schema:** [View on dbdiagram.io](https://dbdiagram.io/d/69f43a63ddb9320fdca7d697)
 
 ### Key Design Decisions
