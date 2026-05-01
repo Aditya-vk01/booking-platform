@@ -150,7 +150,7 @@ Docker Desktop  https://www.docker.com/products/docker-desktop
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/booking-platform.git
+git clone https://github.com/Aditya-vk01/booking-platform.git
 cd booking-platform
 
 # 2. Copy environment file
@@ -294,7 +294,7 @@ A living document of every significant technical decision made during developmen
 ADITYA VENKAT KORAMATI
 Full Stack Engineer | Java · Spring Boot · React · PostgreSQL
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](linkedin.com/in/aditya-venkat-koramati-373ba1353)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/aditya-venkat-koramati-373ba1353)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Aditya-vk01)
 
 ---
