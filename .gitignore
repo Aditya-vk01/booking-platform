@@ -1,0 +1,41 @@
+# ── Environment variables (NEVER commit these) ──────────────────
+.env
+.env.local
+.env.production
+*.env
+
+# ── Java / Maven build output ────────────────────────────────────
+backend/target/
+*.class
+*.jar
+*.war
+*.ear
+
+# ── Maven wrapper (optional — keep if you want) ──────────────────
+# .mvn/
+# mvnw
+# mvnw.cmd
+
+# ── IDE files ────────────────────────────────────────────────────
+.idea/
+*.iml
+.vscode/settings.json
+.classpath
+.project
+.settings/
+
+# ── OS files ─────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Node / Frontend ──────────────────────────────────────────────
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+
+# ── Logs ─────────────────────────────────────────────────────────
+*.log
+logs/
+
+# ── Docker volumes (local data, not code) ────────────────────────
+docker/data/
